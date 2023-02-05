@@ -1,0 +1,15 @@
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\bin\Debug\net6.0\SecondMethodsExercise.exe
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\bin\Debug\net6.0\SecondMethodsExercise.deps.json
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\bin\Debug\net6.0\SecondMethodsExercise.runtimeconfig.json
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\bin\Debug\net6.0\SecondMethodsExercise.dll
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\bin\Debug\net6.0\SecondMethodsExercise.pdb
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.csproj.AssemblyReference.cache
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.AssemblyInfoInputs.cache
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.AssemblyInfo.cs
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.dll
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\refint\SecondMethodsExercise.dll
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.pdb
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\SecondMethodsExercise.genruntimeconfig.cache
+C:\Users\JGONZ\Desktop\Repos\SecondMethodsExercise\obj\Debug\net6.0\ref\SecondMethodsExercise.dll
